@@ -1,6 +1,6 @@
 # OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models
 
-<a href="https://arxiv.org/abs/2502.06606"><img src="https://img.shields.io/badge/arXiv-2502.06606-b31b1b.svg" height=22.5></a>
+<a href="https://arxiv.org/abs/2604.05183"><img src="https://img.shields.io/badge/arXiv-2604.05183-b31b1b.svg" height=22.5></a>
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 
@@ -129,10 +129,10 @@ You can download training data and pretrained orthogonal adapters used in the pa
 
 If you utilize this code in your research, kindly cite our paper:
 ```
-@article{aaa,
+@article{aliev2026orthofuse,
   title={OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models},
-  author={aaaa},
-  journal={arXiv preprint arXiv:2502.06606},
+  author={Aliev, Ali and Garifullin, Kamil and Yudin, Nikolay and Soboleva, Vera and Molozhavenko, Alexander and Oseledets, Ivan and Alanov, Aibek and Rakhuba, Maxim},
+  journal={arXiv preprint arXiv:2604.05183},
   year={2026}
 }
 ```
